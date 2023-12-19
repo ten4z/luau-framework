@@ -16,7 +16,8 @@ uma imagem com a escala de cores em 8bit gerada para uso no projeto.
 
 Você pode editar o arquivo script.lua seguindo as recomendações da API do OneLua
 
-Neste vídeo eu mostro como usar o Add-On
+Neste vídeo eu mostro como usar o Add-On: <br>
+<a href="https://www.youtube.com/watch?v=E2ffSrnCfUs">Assista no Youtube</a>
 
 Conheça o projeto OneLua aqui: <a href="http://onelua.x10.mx/">http://onelua.x10.mx/</a>
 
